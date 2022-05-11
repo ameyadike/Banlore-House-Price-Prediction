@@ -5,11 +5,11 @@ This project constist of step by step model building and flask server deployment
 (This project is built with the reference from [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg) on YouTube.)
 
 ### Directories
-- [BHP]()
-    - [client]()
-    - [model]()
-    - [server]()
-- [Datasets]()
+- [BHP](https://github.com/ameyadike/HousePricePrediction/tree/main/BHP)
+    - [client](https://github.com/ameyadike/HousePricePrediction/tree/main/BHP/client)
+    - [model](https://github.com/ameyadike/HousePricePrediction/tree/main/BHP/model)
+    - [server](https://github.com/ameyadike/HousePricePrediction/tree/main/BHP/server)
+- [Datasets](https://github.com/ameyadike/HousePricePrediction/tree/main/Datasets)
 - README.md
 
 Dataset has been downloaded from [here](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data).
