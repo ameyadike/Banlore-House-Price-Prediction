@@ -29,3 +29,5 @@ The Client directory consists of simple html, css and javascript file for the ap
 - Run [server.py](https://github.com/ameyadike/HousePricePrediction/blob/main/BHP/server/server.py) with `python run server.py`.
 - Open [app.html](https://github.com/ameyadike/HousePricePrediction/blob/main/BHP/client/app.html) in your browser and predict the house prices.
 - You can make changes in the appearances in your web app by modifying html and css files.
+
+![alt text](website.png)
