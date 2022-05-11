@@ -19,3 +19,13 @@ The model constist of a `Jupyter notebook` for the data exploration and model tr
 Ther server directory consists the flask server files for running the project on local machine.
 
 The Client directory consists of simple html, css and javascript file for the app.
+
+
+
+## Instructions
+- Install Anaconda distribution on the local machine.
+- It comes with jupyter notebook and basic libraries for data science such as numpy, pandas, matplotlib etc.
+- If you get any error of library missing, you will need to install the same with `pip`.
+- Run [server.py](https://github.com/ameyadike/HousePricePrediction/blob/main/BHP/server/server.py) with `python run server.py`.
+- Open [app.html](https://github.com/ameyadike/HousePricePrediction/blob/main/BHP/client/app.html) in your browser and predict the house prices.
+- You can make changes in the appearances in your web app by modifying html and css files.
